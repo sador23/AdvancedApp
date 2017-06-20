@@ -43,13 +43,6 @@ namespace AdvancedApp
             {
                 Console.WriteLine("The specified directory does not exist.");
                 return;
-
-
-                int[] num = new int[5];
-                string word = "sonka";
-                word.Split(',');
-                word.Substring(0, word.Length - 2);
-                List<int> lista = new List<int>();
                 
             }
 
