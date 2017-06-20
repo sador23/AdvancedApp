@@ -1,0 +1,5 @@
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb
