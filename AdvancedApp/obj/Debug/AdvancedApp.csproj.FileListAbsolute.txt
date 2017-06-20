@@ -1,0 +1,6 @@
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\AdvancedApp\bin\Debug\AdvancedApp.exe.config
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\AdvancedApp\bin\Debug\AdvancedApp.exe
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\AdvancedApp\bin\Debug\AdvancedApp.pdb
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\AdvancedApp\obj\Debug\AdvancedApp.csprojResolveAssemblyReference.cache
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\AdvancedApp\obj\Debug\AdvancedApp.exe
+C:\Users\sador23\documents\visual studio 2017\Projects\AdvancedApp\AdvancedApp\obj\Debug\AdvancedApp.pdb
